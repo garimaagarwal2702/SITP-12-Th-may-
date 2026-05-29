@@ -1,0 +1,1 @@
+file handling in python means working with files like creating, reading, writing, and updating
