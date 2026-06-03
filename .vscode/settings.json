@@ -1,4 +1,0 @@
-{
-    "python.analysis.autoImportCompletions": false,
-    "notebook.defaultFormatter": "vscode.json-language-features"
-}
